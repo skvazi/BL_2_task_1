@@ -22,4 +22,4 @@
 <pre><code>.selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
-}</code></pre>
+}</code></pre> 
